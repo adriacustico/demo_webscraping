@@ -5,4 +5,4 @@ This script provides the data from the Fligthradar24 website, where you can obta
 
 ## Results
 As an aproach to the data results, the script provides a plot from every path of the flight per day over an airport.
-[path_plot.png]: path_plot.png
+![path_plot.png](https://github.com/adriacustico/demo_webscraping/blob/main/fr24/path_plot.png)
