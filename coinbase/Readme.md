@@ -11,5 +11,8 @@ crypto_coin = 'ETH' # BTC, ETH, LTC, MKR, API3
 time_range = 'week' # day, week, month, year
 ```
 ## Results
-[python_char](py_eth_usd.png)
-[coinbase_char](cb_eth_usd.png)
+### Python plot
+![python_char](https://github.com/adriacustico/demo_webscraping/blob/main/coinbase/py_eth_usd.png)
+
+### Website plot
+![coinbase_char](https://github.com/adriacustico/demo_webscraping/blob/main/coinbase/cb_eth-usd.png)
